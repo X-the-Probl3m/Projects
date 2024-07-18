@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BankWire
+comment1.params=amount\ currency\ recipientName\ bank\ accNumber\ swiftCode
+comment1.target=BankWire(double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=void\ processPayment()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getRecipientName()
+comment3.params=
+comment3.target=void\ setRecipientName()
+comment4.params=
+comment4.target=java.lang.String\ getBank()
+comment5.params=
+comment5.target=void\ setBank()
+comment6.params=
+comment6.target=java.lang.String\ getAccNumber()
+comment7.params=
+comment7.target=void\ setAccNumber()
+comment8.params=
+comment8.target=int\ getSwiftCode()
+comment9.params=
+comment9.target=void\ setSwiftCode()
+numComments=12

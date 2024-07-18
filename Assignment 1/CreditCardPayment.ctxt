@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CreditCardPayment
+comment1.params=amount\ currency\ cardNumber
+comment1.target=CreditCardPayment(double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCardNumber()
+comment3.params=
+comment3.target=void\ setCardNumber()
+comment4.params=
+comment4.target=void\ processPayment()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
